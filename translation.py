@@ -3,7 +3,7 @@ from sample_config import Config
 class Translation(object):
     START_TEXT = """Hello <i><b>{}</b></i>,
 
-This is a Telegram Rename clone of <a href='https://t.me/renamer_Ns_bot'>Renamer NS BOT</a> by {}
+This is a Telegram Rename clone of <a href='https://t.me/ediflex'>Ediflex</a> by {}
 
 I Can rename ✍ with custom thumbnail and upload as video/file
 
@@ -16,15 +16,15 @@ Type /help for more details."""
     UPLOAD_START_VIDEO = "Uploading as video.....📤"
     UPLOAD_START = "Uploading as File.....📤"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations.I can't do anything for that 🤷‍♂️."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using [Anonymous](https://t.me/Ns_AnoNymouS)'s bot.**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using [Anonymous](https://t.me/ediflex)'s bot.**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://t.me/Ns_Bot_supporters'>Ns Bot Supporters</a>"
-    SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail saved ✅️ . This image will be deleted with in 24hr"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://t.me/ediflex'>Ediflex</a>"
+    SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail saved ✅️ . 
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = "@renamer_Ns_bot"
+    CUSTOM_CAPTION_UL_FILE =
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai <b><i>{}</i></b>, 
